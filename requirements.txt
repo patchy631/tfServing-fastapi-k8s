@@ -1,0 +1,4 @@
+Pillow==8.3.2
+pandas==1.1.5
+PyGeodesy==21.9.21
+requests==2.26.0

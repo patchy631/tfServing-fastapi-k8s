@@ -1,0 +1,17 @@
+# create a deployment
+# kubectl create -f raster-dtfr-deployment.yaml
+
+# delete a deployment
+# kubectl delete -f raster-dtfr-deployment.yaml
+
+# get pods info
+# kubectl get pods
+
+# get service info
+# kubectl get svc
+
+# minikube dashboard
+# minikube dashboard --url
+
+# start a minikube service
+# minikube service raster-dtfr-service
